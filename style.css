@@ -18,6 +18,7 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 24px;
+    cursor:pointer;
 }
 
 .cabecalho-imagem {
@@ -66,23 +67,6 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #ECD6C4;
-}
-
-.conteudo-principal-escrito-botao {
-    background-color: #ECD6C4;
-    width: 180px;
-    height: 60px;
-    border: none; 
-    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
-    border-radius: 20px;
-    font-family: 'Sarala', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: ##2F2325;
-}
-
-.conteudo-principal-escrito-botao:houver {
-    background-color: rgba(232, 172, 238, 0.53);
 }
 
 .conteudo-principal-imagem {
